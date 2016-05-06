@@ -1,0 +1,6 @@
+Current skin tags:
+
+- LibrarySidebar (lets call it the Expanded LibrarySidebar)
+- SearchBox
+- CoverArt
+- Library
