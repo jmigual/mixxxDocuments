@@ -54,7 +54,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Wed May 11 09:27:48 CEST 2016'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Thu May 12 19:42:47 CEST 2016'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -1665,7 +1665,7 @@
       justification="Center"
     >WSearchLineEdit</text>
     <group name="Fig13.2"
-         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[1001, 257, 148, 0]"
+         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[1001, 257, 128, 0]"
          href="127-0-1-1-1a764f44:1548556caaa:-8000:00000000000008A7"
          fill="0"
          fillcolor="white"
@@ -1679,7 +1679,7 @@
       <rectangle name="Fig13.2.0"
         x="1001"
         y="257"
-        width="148"
+        width="128"
         height="0"
         fill="0"
         fillcolor="white"
@@ -1699,7 +1699,7 @@
       visibility="0"
     />
     <group name="Fig13.4"
-         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[1001, 280, 128, 21]"
+         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[0, 0, 0, 0]"
          href="127-0-1-1-1a764f44:1548556caaa:-8000:00000000000008A7"
          fill="0"
          fillcolor="white"
@@ -1714,7 +1714,7 @@
         x="1001"
         y="280"
         width="128"
-        height="21"
+        height="24"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -1724,7 +1724,7 @@
     </group>
     <rectangle name="Fig13.5"
       x="1000"
-      y="300"
+      y="303"
       width="130"
       height="1"
       fill="1"
@@ -1734,7 +1734,7 @@
       visibility="0"
     />
     <group name="Fig13.6"
-         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[1001, 301, 128, 21]"
+         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[1001, 304, 128, 21]"
          href="127-0-1-1-1a764f44:1548556caaa:-8000:00000000000008A7"
          fill="0"
          fillcolor="white"
@@ -1747,7 +1747,7 @@
       
       <rectangle name="Fig13.6.0"
         x="1001"
-        y="301"
+        y="304"
         width="128"
         height="21"
         fill="0"
@@ -1891,7 +1891,7 @@
                         offset="58" />
     </private>
     <path name="Fig16.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -1926,7 +1926,7 @@
                         offset="31" />
     </private>
     <path name="Fig17.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -1961,7 +1961,7 @@
                         offset="40" />
     </private>
     <path name="Fig18.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -1996,7 +1996,7 @@
                         offset="77" />
     </private>
     <path name="Fig19.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
