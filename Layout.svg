@@ -18,6 +18,20 @@
   <defs
      id="defs3">
     <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5382"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5135"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -91,8 +105,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.3624827"
-     inkscape:cx="984.88607"
-     inkscape:cy="1111.4102"
+     inkscape:cx="806.05188"
+     inkscape:cy="625.49409"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
@@ -3584,384 +3598,6 @@
          y="852.77216"
          ry="0.071500063" />
     </g>
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.98645812;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect2985-0-1"
-       width="433.53998"
-       height="157.28421"
-       x="696.04132"
-       y="-379.96661"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.53744811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect4226-2-0"
-       width="125.20526"
-       height="114.94485"
-       x="699.17566"
-       y="-339.8826"
-       ry="2.4107966"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.52717227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect4391-8-1"
-       width="301.46609"
-       height="133.26698"
-       x="825.60803"
-       y="-358.47733"
-       ry="0.52883732"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="882.92444"
-       y="-305.18091"
-       id="text4393-3-32"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0108993,0.98921822)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
-         sodipodi:role="line"
-         id="tspan4395-5-42"
-         x="882.92444"
-         y="-305.18091">Qt TableView of Library (legacy)</tspan></text>
-    <rect
-       style="display:inline;fill:none"
-       id="rect4027-8-2"
-       width="30.260473"
-       height="15.334511"
-       x="716.69305"
-       y="-279.98117"
-       ry="7.6672554"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="706.54468"
-       y="-337.49265"
-       id="text4076-0-3"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0108993,0.98921822)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
-         sodipodi:role="line"
-         id="tspan4078-6-6"
-         x="706.54468"
-         y="-337.49265" /><tspan
-         sodipodi:role="line"
-         id="tspan4080-1-3"
-         x="706.54468"
-         y="-328.13821">Library Tree</tspan><tspan
-         sodipodi:role="line"
-         x="706.54468"
-         y="-318.78375"
-         id="tspan4955" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="706.49316"
-       y="-317.04041"
-       id="text4309-9-2"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0108993,0.98921822)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
-         sodipodi:role="line"
-         id="tspan4311-9-60"
-         x="706.49316"
-         y="-317.04041">History</tspan></text>
-    <g
-       style="display:inline"
-       id="g3882-9-9"
-       transform="translate(486.36272,-861.76289)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png">
-      <g
-         transform="translate(16.904361,11.269574)"
-         id="g3841-2-9">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="213.11316"
-           y="582.56555"
-           id="text4124-8-21"
-           sodipodi:linespacing="125%"
-           transform="scale(1.0108993,0.98921822)"><tspan
-             sodipodi:role="line"
-             id="tspan4126-8-3"
-             x="213.11316"
-             y="582.56555" /><tspan
-             sodipodi:role="line"
-             x="213.11316"
-             y="591.91998"
-             id="tspan4128-4-0">playlist 1</tspan><tspan
-             sodipodi:role="line"
-             x="213.11316"
-             y="601.27441"
-             id="tspan4019-4-2">playlist 2</tspan><tspan
-             sodipodi:role="line"
-             x="213.11316"
-             y="610.62891"
-             id="tspan4047-3-0">playlist 3</tspan></text>
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.12846306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect5737-4-61"
-           width="36.622684"
-           height="7.945725"
-           x="214.61504"
-           y="588.35065"
-           ry="0.25631374" />
-      </g>
-      <text
-         transform="scale(1.0108993,0.98921822)"
-         sodipodi:linespacing="125%"
-         id="text4124-0-8-8"
-         y="594.45551"
-         x="216.93558"
-         style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan4047-0-9-3"
-           y="594.45551"
-           x="216.93558"
-           sodipodi:role="line">▼ Playlists</tspan><tspan
-           id="tspan3837-2-0"
-           y="603.80994"
-           x="216.93558"
-           sodipodi:role="line" /></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="713.14209"
-       y="-305.33484"
-       id="text4082-2-5"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0108993,0.98921822)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
-         sodipodi:role="line"
-         id="tspan4086-4-4"
-         x="713.14209"
-         y="-305.33484" /><tspan
-         sodipodi:role="line"
-         x="713.14209"
-         y="-295.98041"
-         id="tspan4090-2-1">Crate 1</tspan><tspan
-         sodipodi:role="line"
-         x="713.14209"
-         y="-286.62595"
-         id="tspan4092-2-2">Crate 2</tspan><tspan
-         sodipodi:role="line"
-         x="713.14209"
-         y="-277.27151"
-         id="tspan4094-0-1" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="698.33069"
-       y="-305.71896"
-       id="text4124-0-9-0-0"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0108993,0.98921822)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
-         sodipodi:role="line"
-         x="698.33069"
-         y="-305.71896"
-         id="tspan3878-0-6">▼ Crates</tspan><tspan
-         sodipodi:role="line"
-         x="698.33069"
-         y="-296.36453"
-         id="tspan3837-7-3-0" /></text>
-    <g
-       style="display:inline"
-       id="g17493-05-1"
-       transform="matrix(0.9997037,0,0,1.1303894,648.83232,-1118.7879)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png">
-      <rect
-         ry="2.5145235"
-         y="656.06842"
-         x="177.77614"
-         height="14.323685"
-         width="125.27837"
-         id="rect4230-96-8-09-4-8"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.58882529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         transform="scale(1.1511181,0.86872059)"
-         sodipodi:linespacing="125%"
-         id="text4282-4-4-9-30-3"
-         y="765.85773"
-         x="192.30515"
-         style="font-style:normal;font-weight:normal;font-size:7.47083998px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="765.85773"
-           x="192.30515"
-           id="tspan4284-40-9-7-7-6"
-           sodipodi:role="line">Preview Deck</tspan><tspan
-           id="tspan4286-3-2-8-3-2"
-           y="775.19629"
-           x="192.30515"
-           sodipodi:role="line" /></text>
-      <g
-         transform="matrix(0.14812516,0,0,0.16225181,357.02563,527.01904)"
-         id="g4577-4-71-4-9"
-         style="display:inline">
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2.82492542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect3687-2-4-7-3"
-           width="84.285713"
-           height="77.142853"
-           x="-1198.9644"
-           y="800.67419"
-           ry="15.548718" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -1188.5756,812.73148 0,54.28571 27.1428,-27.14285 z"
-           id="path3689-9-1-31-7"
-           inkscape:connector-curvature="0" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect3691-2-0-34-3"
-           width="5.7142854"
-           height="58.571426"
-           x="-1144.2899"
-           y="811.30292"
-           ry="0" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect3691-5-4-7-7-2"
-           width="5.7142854"
-           height="58.571426"
-           x="-1131.4327"
-           y="812.01721"
-           ry="0" />
-      </g>
-    </g>
-    <g
-       transform="translate(520.92946,-1032.6272)"
-       style="display:inline"
-       id="g17504-6-8"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png">
-      <text
-         transform="scale(1.0223572,0.97813171)"
-         sodipodi:linespacing="125%"
-         id="text5584-6-0-52-8"
-         y="679.28314"
-         x="486.97705"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.6156106px;line-height:125%;font-family:Tunga;-inkscape-font-specification:Tunga;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="679.28314"
-           x="486.97705"
-           id="tspan5586-6-5-9-4"
-           sodipodi:role="line">State / Progress / Controls</tspan></text>
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.14694495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect3770-4-9-79-2"
-         width="172.79808"
-         height="18.064518"
-         x="433.09631"
-         y="654.55231"
-         ry="0.071684614" />
-    </g>
-    <g
-       transform="translate(522.7253,-859.02931)"
-       style="display:inline"
-       id="g17535-4-4-8"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png">
-      <g
-         transform="translate(-3.5052995,810.77502)"
-         id="g3899-2-5-5-8-24-8"
-         style="display:inline">
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.33622342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect4385-8-2-1-1-9-9-4"
-           width="124.44469"
-           height="16.017946"
-           x="180.19456"
-           y="-329.04102"
-           ry="0.51670802" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:6.98861361px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="225.50095"
-           y="-350.12088"
-           id="text4387-7-1-7-6-1-4-7"
-           sodipodi:linespacing="125%"
-           transform="scale(1.0824921,0.92379427)"><tspan
-             id="tspan5747-8-3-6-1"
-             sodipodi:role="line"
-             x="226.61339"
-             y="-350.12088">Track Table Filter </tspan><tspan
-             id="tspan5794-9-4-3-2"
-             sodipodi:role="line"
-             x="225.50095"
-             y="-341.3851">(Search)</tspan></text>
-      </g>
-      <g
-         transform="translate(-45.206389,-106.94421)"
-         id="g5073-1-5-6-5-9-70-0"
-         style="display:inline">
-        <rect
-           rx="3.9624333"
-           ry="2.9226456"
-           y="590.78046"
-           x="223.45955"
-           height="12.222068"
-           width="26.548298"
-           id="rect4261-8-6-8-0-7-3-1"
-           style="opacity:1;fill:none;stroke:#ff0000;stroke-width:0.74268913;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text5069-3-4-0-6-2-0-1"
-           y="598.42395"
-           x="226.87698"
-           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-size:5px"
-             y="598.42395"
-             x="226.87698"
-             id="tspan5071-8-3-4-2-8-2-6"
-             sodipodi:role="line">Provider</tspan></text>
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="704.05731"
-       y="-235.72687"
-       id="text4124-0-9-0-0-8"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0108993,0.98921822)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
-         sodipodi:role="line"
-         x="704.05731"
-         y="-235.72687"
-         id="tspan3878-0-6-2">Auto DJ </tspan><tspan
-         sodipodi:role="line"
-         x="704.05731"
-         y="-226.37242"
-         id="tspan3837-7-3-0-0" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4957"
@@ -3972,99 +3608,7 @@
            height="116.43029"
            x="598.61328"
            y="61.39415" /></flowRegion><flowPara
-         id="flowPara4963"></flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.20023577;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect4226-2-0-9"
-       width="125.54247"
-       height="15.912251"
-       x="698.7298"
-       y="-358.51657"
-       ry="0.33373567"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
-    <rect
-       rx="3.9624333"
-       ry="2.9226456"
-       y="-356.91614"
-       x="701.14191"
-       height="12.222068"
-       width="26.548298"
-       id="rect4261-8-6-8-0-7-3-1-8"
-       style="opacity:1;fill:none;stroke:#ff0000;stroke-width:0.74268913;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text5069-3-4-0-6-2-0-1-4"
-       y="-349.27264"
-       x="703.96069"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
-         style="font-size:5px"
-         y="-349.27264"
-         x="703.96069"
-         id="tspan5071-8-3-4-2-8-2-6-7"
-         sodipodi:role="line">Previous</tspan></text>
-    <rect
-       rx="3.9624333"
-       ry="2.9226456"
-       y="-356.82114"
-       x="730.26849"
-       height="12.222068"
-       width="26.548298"
-       id="rect4261-8-6-8-0-7-3-1-8-5"
-       style="display:inline;opacity:1;fill:none;stroke:#ff0000;stroke-width:0.74268913;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text5069-3-4-0-6-2-0-1-4-7"
-       y="-348.87836"
-       x="737.27753"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
-         style="font-size:5px"
-         y="-348.87836"
-         x="737.27753"
-         id="tspan5071-8-3-4-2-8-2-6-7-1"
-         sodipodi:role="line">Next</tspan></text>
-    <rect
-       rx="3.3897841"
-       ry="2.9356153"
-       y="-356.54895"
-       x="759.57343"
-       height="12.276305"
-       width="22.711548"
-       id="rect4261-8-6-8-0-7-3-1-8-6"
-       style="display:inline;opacity:1;fill:none;stroke:#ff0000;stroke-width:0.68845189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text5069-3-4-0-6-2-0-1-4-5"
-       y="-348.87833"
-       x="762.41931"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
-         style="font-size:5px"
-         y="-348.87833"
-         x="762.41931"
-         id="tspan5071-8-3-4-2-8-2-6-7-7"
-         sodipodi:role="line">Config</tspan></text>
-    <rect
+         id="flowPara4963" /></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.98645812;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect2985-0-9-2"
        width="433.53998"
@@ -4401,7 +3945,7 @@
            height="63.915813"
            x="616.08917"
            y="273.15359" /></flowRegion><flowPara
-         id="flowPara5743"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5743" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5745"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -4411,7 +3955,7 @@
            height="68.24192"
            x="502.23657"
            y="416.07254" /></flowRegion><flowPara
-         id="flowPara5751"></flowPara></flowRoot>    <rect
+         id="flowPara5751" /></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.98645812;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect2985-0-9-2-4"
        width="433.53998"
@@ -4754,7 +4298,7 @@
            height="51.217308"
            width="48.254322"
            id="rect6042" /></flowRegion><flowPara
-         id="flowPara6044"></flowPara></flowRoot>    <rect
+         id="flowPara6044" /></flowRoot>    <rect
        style="display:inline;fill:#15ea1c;fill-opacity:0.19607843"
        id="rect4029-4-5-0-2"
        width="41.608158"
@@ -5242,5 +4786,408 @@
          y="342.15668"
          x="624.5625"
          sodipodi:role="line" /></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.98645812;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect2985-0-9-2-4-3-8"
+       width="433.53998"
+       height="157.28421"
+       x="689.82385"
+       y="355.50931"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.53419954;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4226-2-5-4-9-1-7"
+       width="104.85462"
+       height="135.59959"
+       x="713.30951"
+       y="374.93338"
+       ry="2.8439989"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.36792675;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4391-8-8-6-0-2-2"
+       width="146.6687"
+       height="133.42622"
+       x="974.26752"
+       y="376.91898"
+       ry="0.52946925"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="999.96014"
+       y="446.28043"
+       id="text4393-3-5-1-2-1-6"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0108993,0.98921822)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4395-5-6-0-5-1-3"
+         x="999.96014"
+         y="446.28043">Right pane feature 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.23488712px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="748.06146"
+       y="469.93491"
+       id="text5477-4-0-1-4-3-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92962532,1.0757022)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan5479-5-7-6-4-6-3"
+         x="748.06146"
+         y="469.93491">+</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.37120652;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4385-8-9-7-3-3-4"
+       width="152.02016"
+       height="15.982964"
+       x="820.19598"
+       y="357.54889"
+       ry="0.51557952"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.98861361px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="766.802"
+       y="398.88297"
+       id="text4387-7-5-7-1-2-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0824921,0.92379427)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4389-6-4-0-3-4-3"
+         x="766.802"
+         y="398.88297">Track Table Filter (Search)</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.58882529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4230-96-8-7-4-7-2-3"
+       width="125.27837"
+       height="14.323685"
+       x="692.81036"
+       y="358.32642"
+       ry="2.5145235"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.47083998px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="639.72595"
+       y="423.12149"
+       id="text4282-4-4-0-4-9-6-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1511181,0.86872059)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4284-40-9-3-5-0-7-0"
+         x="639.72595"
+         y="423.12149">Preview Deck</tspan><tspan
+         sodipodi:role="line"
+         x="639.72595"
+         y="432.46005"
+         id="tspan4286-3-2-2-4-1-2-2" /></text>
+    <g
+       style="display:inline"
+       id="g4577-4-0-1-7-7-4"
+       transform="matrix(0.14812516,0,0,0.16225181,872.05981,229.27702)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png">
+      <rect
+         ry="15.548718"
+         y="800.67419"
+         x="-1198.9644"
+         height="77.142853"
+         width="84.285713"
+         id="rect3687-2-0-3-7-1-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2.82492542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3689-9-8-9-8-0-7"
+         d="m -1188.5756,812.73148 0,54.28571 27.1428,-27.14285 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         ry="0"
+         y="811.30292"
+         x="-1144.2899"
+         height="58.571426"
+         width="5.7142854"
+         id="rect3691-2-8-4-2-0-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <rect
+         ry="0"
+         y="812.01721"
+         x="-1131.4327"
+         height="58.571426"
+         width="5.7142854"
+         id="rect3691-5-4-4-8-5-9-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <rect
+       ry="2.8603778"
+       y="374.90729"
+       x="690.73523"
+       height="136.38051"
+       width="21.166409"
+       id="rect3970-2-5-3-5-3-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.24070232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <ellipse
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3972-7-1-9-3-8-4"
+       cx="700.92963"
+       cy="384.39111"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <ellipse
+       id="path3976-8-3-8-6-9-0"
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       cx="701.63391"
+       cy="408.54205"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <ellipse
+       id="path3980-6-7-8-1-9-0"
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       cx="700.98871"
+       cy="433.02802"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <text
+       transform="scale(1.1124167,0.89894372)"
+       sodipodi:linespacing="125%"
+       id="text3984-8-9-3-0-7-6"
+       y="439.00833"
+       x="623.20416"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         y="439.00833"
+         x="623.20416"
+         id="tspan3986-5-8-2-4-2-2"
+         sodipodi:role="line">Library</tspan><tspan
+         id="tspan3988-5-2-1-5-7-6"
+         y="444.04706"
+         x="623.20416"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="623.15723"
+       y="465.59369"
+       id="text3990-8-8-9-1-9-4"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1124167,0.89894372)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan3992-1-5-0-4-5-2"
+         x="623.15723"
+         y="465.59369">Auto DJ</tspan><tspan
+         sodipodi:role="line"
+         x="623.15723"
+         y="470.63245"
+         id="tspan3995-4-6-4-8-8-4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="622.00372"
+       y="492.87451"
+       id="text4004-3-8-1-6-3-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1124167,0.89894372)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4006-8-3-9-2-1-3"
+         x="622.00372"
+         y="492.87451">Analyse</tspan><tspan
+         sodipodi:role="line"
+         x="622.00372"
+         y="497.91327"
+         id="tspan4008-6-7-4-6-1-3" /></text>
+    <ellipse
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4010-4-5-3-2-8-3"
+       cx="701.24091"
+       cy="455.72485"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <text
+       transform="scale(1.1124167,0.89894372)"
+       sodipodi:linespacing="125%"
+       id="text4012-5-3-7-5-2-9"
+       y="520.88605"
+       x="622.80389"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         y="520.88605"
+         x="622.80389"
+         id="tspan4014-3-4-6-8-4-6"
+         sodipodi:role="line">Record</tspan><tspan
+         id="tspan4016-2-6-5-4-4-6"
+         y="525.9248"
+         x="622.80389"
+         sodipodi:role="line" /></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.37490934;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4391-8-8-0-4-0-4-8"
+       width="152.29651"
+       height="133.41925"
+       x="819.91937"
+       y="376.16699"
+       ry="0.52944154"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.36573085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4385-8-9-2-5-8-7-5"
+       width="147.51781"
+       height="15.98844"
+       x="973.60272"
+       y="357.68585"
+       ry="0.51575613"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.98861361px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="908.52081"
+       y="399.03418"
+       id="text4387-7-5-6-2-1-5-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0824921,0.92379427)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4389-6-4-5-8-8-5-5"
+         x="908.52081"
+         y="399.03418">Track Table Filter (Search)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="846.84637"
+       y="444.21109"
+       id="text4393-3-82-6-1-9-5"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0108993,0.98921822)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4395-5-5-9-8-5-7"
+         x="846.84637"
+         y="444.21109">Right pane feature 1</tspan></text>
+    <ellipse
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4010-4-5-3-1-0-6-5"
+       cx="701.6297"
+       cy="477.67383"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png" />
+    <text
+       transform="scale(1.1124167,0.89894372)"
+       sodipodi:linespacing="125%"
+       id="text4012-5-3-7-4-8-2-9"
+       y="545.30243"
+       x="623.15344"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         y="545.30243"
+         x="623.15344"
+         id="tspan4014-3-4-6-7-8-5-3"
+         sodipodi:role="line">Crates</tspan><tspan
+         id="tspan4016-2-6-5-6-6-5-1"
+         y="550.34119"
+         x="623.15344"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="726.63898"
+       y="445.2269"
+       id="text4393-3-82-6-1-9-5-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0108993,0.98921822)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4395-5-5-9-8-5-7-5"
+         x="726.63898"
+         y="445.2269">Left pane stack</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="729.57001"
+       y="541.50372"
+       id="text4393-3-82-6-1-9-5-9"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0108993,0.98921822)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Downloads/sidebar_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4395-5-5-9-8-5-7-3"
+         x="729.57001"
+         y="541.50372">Button bar</tspan><tspan
+         sodipodi:role="line"
+         x="729.57001"
+         y="550.85815"
+         id="tspan4294" /></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5382)"
+       d="m 733.0476,531.50662 -28.36,-21.58746"
+       id="path4296"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
