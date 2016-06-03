@@ -26,7 +26,7 @@
       <fontname>Dialog</fontname>
       <fontsize>12</fontsize>
       <defaultstereotypeview>0</defaultstereotypeview>
-      <activediagram>LibraryFeature</activediagram>
+      <activediagram>Widget Stack</activediagram>
     </settings>
     <searchpath href="PROJECT_DIR" />
     <members>
@@ -62,7 +62,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Thu Jun 02 17:17:36 CEST 2016'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Thu Jun 02 18:07:59 CEST 2016'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -277,7 +277,7 @@
       isAbstract = 'false'>
       <UML:Association.connection>
         <UML:AssociationEnd xmi.id = '127-0-1-1--7c3c620e:155106a8c70:-8000:0000000000000998'
-          visibility = 'public' isSpecification = 'false' isNavigable = 'true' ordering = 'unordered'
+          visibility = 'public' isSpecification = 'false' isNavigable = 'false' ordering = 'unordered'
           aggregation = 'none' targetScope = 'instance' changeability = 'changeable'>
           <UML:AssociationEnd.multiplicity>
             <UML:Multiplicity xmi.id = '127-0-1-1--7c3c620e:155106a8c70:-8000:000000000000099F'>
@@ -450,7 +450,7 @@
           </UML:AssociationEnd.participant>
         </UML:AssociationEnd>
         <UML:AssociationEnd xmi.id = '127-0-1-1--7c3c620e:155106a8c70:-8000:00000000000009E9'
-          visibility = 'public' isSpecification = 'false' isNavigable = 'true' ordering = 'unordered'
+          visibility = 'public' isSpecification = 'false' isNavigable = 'false' ordering = 'unordered'
           aggregation = 'none' targetScope = 'instance' changeability = 'changeable'>
           <UML:AssociationEnd.multiplicity>
             <UML:Multiplicity xmi.id = '127-0-1-1--7c3c620e:155106a8c70:-8000:00000000000009EB'>
@@ -471,7 +471,7 @@
       isAbstract = 'false'>
       <UML:Association.connection>
         <UML:AssociationEnd xmi.id = '127-0-1-1--7c3c620e:155106a8c70:-8000:0000000000000A05'
-          name = '' visibility = 'public' isSpecification = 'false' isNavigable = 'true'
+          name = '' visibility = 'public' isSpecification = 'false' isNavigable = 'false'
           ordering = 'unordered' aggregation = 'none' targetScope = 'instance' changeability = 'changeable'>
           <UML:AssociationEnd.multiplicity>
             <UML:Multiplicity xmi.id = '127-0-1-1--7c3c620e:155106a8c70:-8000:0000000000000A13'>
@@ -507,7 +507,7 @@
       isAbstract = 'false'>
       <UML:Association.connection>
         <UML:AssociationEnd xmi.id = '127-0-1-1--7c3c620e:155106a8c70:-8000:0000000000000A08'
-          name = '' visibility = 'public' isSpecification = 'false' isNavigable = 'true'
+          name = '' visibility = 'public' isSpecification = 'false' isNavigable = 'false'
           ordering = 'unordered' aggregation = 'none' targetScope = 'instance' changeability = 'changeable'>
           <UML:AssociationEnd.multiplicity>
             <UML:Multiplicity xmi.id = '127-0-1-1--7c3c620e:155106a8c70:-8000:0000000000000A0B'>
@@ -2835,7 +2835,7 @@ and LibraryPaneManager classes</text>
     </group>
   </group>
   <group name="Fig6"
-       description="org.argouml.uml.diagram.static_structure.ui.FigClass[560, 176, 75, 24]pathVisible=false;stereotypeView=0;operationsVisible=false;attributesVisible=false;"
+       description="org.argouml.uml.diagram.static_structure.ui.FigClass[544, 160, 75, 24]pathVisible=false;stereotypeView=0;operationsVisible=false;attributesVisible=false;"
        href="127-0-1-1--7c3c620e:155106a8c70:-8000:00000000000009BF"
        fill="1"
        fillcolor="white"
@@ -2846,8 +2846,8 @@ and LibraryPaneManager classes</text>
     </private>
     
     <rectangle name="Fig6.0"
-      x="560"
-      y="176"
+      x="544"
+      y="160"
       width="75"
       height="24"
       fill="1"
@@ -2856,8 +2856,8 @@ and LibraryPaneManager classes</text>
       strokecolor="black"
     />
     <text name="Fig6.1"
-      x="561"
-      y="177"
+      x="545"
+      y="161"
       width="73"
       height="22"
       fill="0"
@@ -2872,7 +2872,7 @@ and LibraryPaneManager classes</text>
       justification="Center"
     >WWidget</text>
     <group name="Fig6.2"
-         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[561, 177, 64, 0]"
+         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[545, 161, 64, 0]"
          href="127-0-1-1--7c3c620e:155106a8c70:-8000:00000000000009BF"
          fill="0"
          fillcolor="white"
@@ -2884,8 +2884,8 @@ and LibraryPaneManager classes</text>
       </private>
       
       <rectangle name="Fig6.2.0"
-        x="561"
-        y="177"
+        x="545"
+        y="161"
         width="64"
         height="0"
         fill="0"
@@ -2895,8 +2895,8 @@ and LibraryPaneManager classes</text>
       />
     </group>
     <rectangle name="Fig6.3"
-      x="560"
-      y="199"
+      x="544"
+      y="183"
       width="75"
       height="1"
       fill="1"
@@ -2906,7 +2906,7 @@ and LibraryPaneManager classes</text>
       visibility="0"
     />
     <group name="Fig6.4"
-         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[561, 200, 73, 21]"
+         description="org.argouml.uml.diagram.ui.FigAttributesCompartment[545, 184, 73, 21]"
          href="127-0-1-1--7c3c620e:155106a8c70:-8000:00000000000009BF"
          fill="0"
          fillcolor="white"
@@ -2918,8 +2918,8 @@ and LibraryPaneManager classes</text>
       </private>
       
       <rectangle name="Fig6.4.0"
-        x="561"
-        y="200"
+        x="545"
+        y="184"
         width="73"
         height="21"
         fill="0"
@@ -2930,8 +2930,8 @@ and LibraryPaneManager classes</text>
       />
     </group>
     <rectangle name="Fig6.5"
-      x="560"
-      y="199"
+      x="544"
+      y="183"
       width="72"
       height="1"
       fill="1"
@@ -2941,7 +2941,7 @@ and LibraryPaneManager classes</text>
       visibility="0"
     />
     <group name="Fig6.6"
-         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[561, 200, 70, 21]"
+         description="org.argouml.uml.diagram.ui.FigOperationsCompartment[545, 184, 70, 21]"
          href="127-0-1-1--7c3c620e:155106a8c70:-8000:00000000000009BF"
          fill="0"
          fillcolor="white"
@@ -2953,8 +2953,8 @@ and LibraryPaneManager classes</text>
       </private>
       
       <rectangle name="Fig6.6.0"
-        x="561"
-        y="200"
+        x="545"
+        y="184"
         width="70"
         height="21"
         fill="0"
@@ -3016,7 +3016,7 @@ and LibraryPaneManager classes</text>
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="560"
+      <moveto x="544"
               y="176" />
       <lineto x="423"
               y="176" />
