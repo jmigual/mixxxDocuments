@@ -22,16 +22,61 @@
   <defs
      id="defs5105">
     <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5621"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5623"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5437"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5439" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5259"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5261"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker5242"
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow1Lend">
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
       <path
          transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#ff6523;stroke-width:1pt;stroke-opacity:0.63775509;fill:#ff6523;fill-opacity:0.63775509"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path5244" />
     </marker>
@@ -384,9 +429,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="311.91354"
-     inkscape:cy="591.70871"
+     inkscape:zoom="1.979899"
+     inkscape:cx="307.05818"
+     inkscape:cy="369.48153"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -423,7 +468,7 @@
        style="display:inline;fill:#0debff;fill-opacity:0.63921569"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="fill:#0debff;fill-opacity:0.63921569;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6455"
@@ -432,7 +477,7 @@
        x="86.182297"
        y="398.72684"
        ry="9.7869902"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <rect
@@ -443,7 +488,7 @@
        x="252.14287"
        y="486.29074"
        ry="9.7869902"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <rect
@@ -4100,7 +4145,7 @@
        y="376.76407"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.53419954;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4226-2-5-4-9-1-7-0"
@@ -4111,7 +4156,7 @@
        ry="2.8439989"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.36792675;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4391-8-8-6-0-2-2-9"
@@ -4122,7 +4167,7 @@
        ry="0.52946925"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -4133,11 +4178,11 @@
        transform="scale(1.0108993,0.98921822)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4395-5-6-0-5-1-3-7"
          x="402.93982"
-         y="417.72986">Right pane container 2</tspan></text>
+         y="417.72986">Track table container 2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:11.23488712px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -4148,7 +4193,7 @@
        transform="scale(0.92962532,1.0757022)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan5479-5-7-6-4-6-3-4"
          x="99.388931"
@@ -4163,7 +4208,7 @@
        ry="0.51557952"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.98861361px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -4174,7 +4219,7 @@
        transform="scale(1.0824921,0.92379427)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4389-6-4-0-3-4-3-9"
          x="238.43695"
@@ -4189,7 +4234,7 @@
        ry="2.5145235"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.47083998px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -4200,7 +4245,7 @@
        transform="scale(1.1511181,0.86872059)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4284-40-9-3-5-0-7-0-2"
          x="115.86797"
@@ -4215,7 +4260,7 @@
        transform="matrix(0.14812516,0,0,0.16225181,269.0374,250.5318)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png">
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png">
       <rect
          ry="15.548718"
          y="800.67419"
@@ -4256,7 +4301,7 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.24070232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <ellipse
        style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:1.75371182px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3972-7-1-9-3-8-4-6"
@@ -4266,7 +4311,7 @@
        ry="8.7080336"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        transform="scale(1.0111469,0.98897598)"
        sodipodi:linespacing="125%"
@@ -4277,7 +4322,7 @@
        xml:space="preserve"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          y="420.55804"
          x="92.469955"
          id="tspan3986-5-8-2-4-2-2-79"
@@ -4296,7 +4341,7 @@
        ry="0.52944154"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.36573085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4385-8-9-2-5-8-7-5-9"
@@ -4307,7 +4352,7 @@
        ry="0.51575613"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.98861361px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -4318,7 +4363,7 @@
        transform="scale(1.0824921,0.92379427)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4389-6-4-5-8-8-5-5-9"
          x="383.45505"
@@ -4333,39 +4378,39 @@
        transform="scale(1.0108993,0.98921822)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4395-5-5-9-8-5-7-59"
          x="252.32416"
-         y="419.23462">Right pane container 1</tspan></text>
+         y="419.23462">Track table container 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.48355341px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="119.12635"
-       y="418.71869"
+       x="115.1293"
+       y="419.22928"
        id="text4393-3-82-6-1-9-5-1-2"
        sodipodi:linespacing="125%"
        transform="scale(1.0108993,0.98921822)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4395-5-5-9-8-5-7-5-4"
-         x="119.12635"
-         y="418.71869">Stack of all features</tspan><tspan
+         x="115.1293"
+         y="419.22928">Stack of all features</tspan><tspan
          sodipodi:role="line"
-         x="119.12635"
-         y="428.07312"
-         id="tspan5997">left panes</tspan><tspan
+         x="115.1293"
+         y="428.58371"
+         id="tspan5997">library sidebar expanded</tspan><tspan
          sodipodi:role="line"
-         x="119.12635"
-         y="437.42758"
+         x="115.1293"
+         y="437.93817"
          id="tspan5702" /></text>
     <g
        style="display:inline"
        id="g5073-1-5-6-5-9-70-69"
        transform="translate(149.47515,-209.77139)"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
       <rect
@@ -4394,7 +4439,7 @@
        style="display:inline"
        id="g5073-1-5-6-5-9-70-3-4"
        transform="translate(-4.0962783,-209.77139)"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
       <rect
@@ -4429,7 +4474,7 @@
        ry="0.85461742"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="display:inline;fill:none"
        id="rect4027-8-7-0"
@@ -4440,7 +4485,7 @@
        ry="3.4541028"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -4451,47 +4496,26 @@
        transform="scale(1.1531008,0.86722688)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4860-8"
          x="193.3223"
          y="787.73706"
-         style="font-size:8.69546318px">Right pane  </tspan><tspan
+         style="font-size:8.69546318px">Track Table</tspan><tspan
          sodipodi:role="line"
          x="193.3223"
          y="798.60638"
          style="font-size:8.69546318px"
-         id="tspan4862-7" /><tspan
+         id="tspan5064">Widget</tspan><tspan
          sodipodi:role="line"
          x="193.3223"
          y="809.47571"
-         id="tspan4864-8"
-         style="font-size:8.69546318px" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="141.26476"
-       y="788.1004"
-       id="text4858-1-1"
-       sodipodi:linespacing="125%"
-       transform="scale(1.1531008,0.86722688)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
-         sodipodi:role="line"
-         id="tspan4860-8-6"
-         x="141.26476"
-         y="788.1004"
-         style="font-size:8.69546318px">Left pane  </tspan><tspan
-         sodipodi:role="line"
-         x="141.26476"
-         y="798.96973"
          style="font-size:8.69546318px"
-         id="tspan4862-7-8" /><tspan
+         id="tspan4862-7" /><tspan
          sodipodi:role="line"
-         x="141.26476"
-         y="809.83905"
-         id="tspan4864-8-1"
+         x="193.3223"
+         y="820.34503"
+         id="tspan4864-8"
          style="font-size:8.69546318px" /></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.23932618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -4503,7 +4527,7 @@
        ry="0.85399103"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.20946175;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4226-2-5-0-4"
@@ -4514,7 +4538,7 @@
        ry="0.85461742"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="display:inline;fill:none"
        id="rect4027-8-7-0-9"
@@ -4525,7 +4549,7 @@
        ry="3.4541028"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -4536,46 +4560,66 @@
        transform="scale(1.1531008,0.86722688)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4860-8-3"
          x="320.83868"
          y="788.33832"
-         style="font-size:8.69546318px">Right pane  </tspan><tspan
+         style="font-size:8.69546318px">Track Table</tspan><tspan
          sodipodi:role="line"
          x="320.83868"
          y="799.20764"
          style="font-size:8.69546318px"
-         id="tspan4862-7-4" /><tspan
+         id="tspan5066">Widget</tspan><tspan
          sodipodi:role="line"
          x="320.83868"
          y="810.07697"
+         style="font-size:8.69546318px"
+         id="tspan4862-7-4" /><tspan
+         sodipodi:role="line"
+         x="320.83868"
+         y="820.94629"
          id="tspan4864-8-3"
          style="font-size:8.69546318px" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="268.78116"
-       y="788.70154"
+       x="267.4671"
+       y="775.30627"
        id="text4858-1-1-4"
        sodipodi:linespacing="125%"
        transform="scale(1.1531008,0.86722688)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4860-8-6-0"
-         x="268.78116"
-         y="788.70154"
-         style="font-size:8.69546318px">Left pane  </tspan><tspan
+         x="267.4671"
+         y="775.30627"
+         style="font-size:8.69546318px">Libray</tspan><tspan
          sodipodi:role="line"
-         x="268.78116"
-         y="799.57086"
+         x="267.4671"
+         y="786.1756"
+         style="font-size:8.69546318px"
+         id="tspan4956">sidebar</tspan><tspan
+         sodipodi:role="line"
+         x="267.4671"
+         y="797.04492"
+         style="font-size:8.69546318px"
+         id="tspan4958">expanded</tspan><tspan
+         sodipodi:role="line"
+         x="267.4671"
+         y="807.91425"
+         style="font-size:8.69546318px"
+         id="tspan4960">widget</tspan><tspan
+         sodipodi:role="line"
+         x="267.4671"
+         y="818.78357"
          style="font-size:8.69546318px"
          id="tspan4862-7-8-8" /><tspan
          sodipodi:role="line"
-         x="268.78116"
-         y="810.44019"
+         x="267.4671"
+         y="829.65289"
          id="tspan4864-8-1-3"
          style="font-size:8.69546318px" /></text>
     <rect
@@ -4588,7 +4632,7 @@
        ry="0.85399103"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.72405136;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4642857"
        id="rect5842"
@@ -4597,7 +4641,7 @@
        x="150.27107"
        y="639.38977"
        ry="0.85398865"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <text
@@ -4618,7 +4662,7 @@
        y="653.29742"
        id="text5848"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
@@ -4634,7 +4678,7 @@
        x="301.2417"
        y="638.84082"
        ry="0.85398865"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <text
@@ -4644,7 +4688,7 @@
        y="652.74847"
        id="text5848-1"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
@@ -4662,7 +4706,7 @@
        ry="0.85461742"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="display:inline;fill:none"
        id="rect4027-8-7-0-5"
@@ -4673,59 +4717,7 @@
        ry="3.4541028"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="193.48099"
-       y="883.74719"
-       id="text4858-1-22"
-       sodipodi:linespacing="125%"
-       transform="scale(1.1531008,0.86722688)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
-         sodipodi:role="line"
-         id="tspan4860-8-4"
-         x="193.48099"
-         y="883.74719"
-         style="font-size:8.69546318px">Right pane  </tspan><tspan
-         sodipodi:role="line"
-         x="193.48099"
-         y="894.61652"
-         style="font-size:8.69546318px"
-         id="tspan4862-7-6" /><tspan
-         sodipodi:role="line"
-         x="193.48099"
-         y="905.48584"
-         id="tspan4864-8-8"
-         style="font-size:8.69546318px" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="141.42346"
-       y="884.11047"
-       id="text4858-1-1-5"
-       sodipodi:linespacing="125%"
-       transform="scale(1.1531008,0.86722688)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
-         sodipodi:role="line"
-         id="tspan4860-8-6-9"
-         x="141.42346"
-         y="884.11047"
-         style="font-size:8.69546318px">Left pane  </tspan><tspan
-         sodipodi:role="line"
-         x="141.42346"
-         y="894.9798"
-         style="font-size:8.69546318px"
-         id="tspan4862-7-8-9" /><tspan
-         sodipodi:role="line"
-         x="141.42346"
-         y="905.84912"
-         id="tspan4864-8-1-2"
-         style="font-size:8.69546318px" /></text>
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.23932618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4226-2-5-0-1-8"
@@ -4736,7 +4728,7 @@
        ry="0.85399103"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.72405136;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4642857"
        id="rect5842-5"
@@ -4745,7 +4737,7 @@
        x="150.45407"
        y="722.65234"
        ry="0.85398865"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <text
@@ -4755,7 +4747,7 @@
        y="736.56"
        id="text5848-8"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
@@ -4773,7 +4765,7 @@
        ry="0.85461742"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="display:inline;fill:none"
        id="rect4027-8-7-0-5-2"
@@ -4784,59 +4776,7 @@
        ry="3.4541028"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="325.83505"
-       y="883.3252"
-       id="text4858-1-22-7"
-       sodipodi:linespacing="125%"
-       transform="scale(1.1531008,0.86722688)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
-         sodipodi:role="line"
-         id="tspan4860-8-4-0"
-         x="325.83505"
-         y="883.3252"
-         style="font-size:8.69546318px">Right pane  </tspan><tspan
-         sodipodi:role="line"
-         x="325.83505"
-         y="894.19452"
-         style="font-size:8.69546318px"
-         id="tspan4862-7-6-6" /><tspan
-         sodipodi:role="line"
-         x="325.83505"
-         y="905.06384"
-         id="tspan4864-8-8-2"
-         style="font-size:8.69546318px" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="273.7775"
-       y="883.68848"
-       id="text4858-1-1-5-5"
-       sodipodi:linespacing="125%"
-       transform="scale(1.1531008,0.86722688)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
-         sodipodi:role="line"
-         id="tspan4860-8-6-9-9"
-         x="273.7775"
-         y="883.68848"
-         style="font-size:8.69546318px">Left pane  </tspan><tspan
-         sodipodi:role="line"
-         x="273.7775"
-         y="894.5578"
-         style="font-size:8.69546318px"
-         id="tspan4862-7-8-9-9" /><tspan
-         sodipodi:role="line"
-         x="273.7775"
-         y="905.42712"
-         id="tspan4864-8-1-2-7"
-         style="font-size:8.69546318px" /></text>
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.23932618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4226-2-5-0-1-8-7"
@@ -4847,7 +4787,7 @@
        ry="0.85399103"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.72405136;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4642857"
        id="rect5842-5-2"
@@ -4856,7 +4796,7 @@
        x="303.07162"
        y="722.28638"
        ry="0.85398865"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <text
@@ -4866,7 +4806,7 @@
        y="736.19397"
        id="text5848-8-2"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
@@ -4879,7 +4819,7 @@
        d="m 151.42857,531.29077 61.78571,-73.2143"
        id="path6351"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -4887,7 +4827,7 @@
        d="m 183.21428,531.29077 31.07143,-36.4286"
        id="path6353"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <text
@@ -4897,7 +4837,7 @@
        x="179.91908"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="font-size:18px"
@@ -4915,12 +4855,12 @@
        transform="scale(1.0824921,0.92379427)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan6072"
          x="235.78487"
          y="539.23029"
-         style="font-size:12px">Right pane  </tspan><tspan
+         style="font-size:12px">Track Table  </tspan><tspan
          sodipodi:role="line"
          x="235.78487"
          y="554.23029"
@@ -4939,7 +4879,7 @@
        x="220.15379"
        y="420.4451"
        ry="0"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <rect
@@ -4950,7 +4890,7 @@
        x="374.06973"
        y="420.43906"
        ry="0"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <text
@@ -4963,12 +4903,12 @@
        transform="scale(1.0824921,0.92379427)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan6072-9"
          x="379.05243"
          y="539.30731"
-         style="font-size:12px">Right pane  </tspan><tspan
+         style="font-size:12px">Track Table</tspan><tspan
          sodipodi:role="line"
          x="379.05243"
          y="554.30731"
@@ -4988,7 +4928,7 @@
        ry="8.7080336"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        transform="scale(1.0111469,0.98897598)"
        sodipodi:linespacing="125%"
@@ -4999,7 +4939,7 @@
        xml:space="preserve"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          y="447.65143"
          x="92.800064"
          id="tspan3986-5-8-2-4-2-2-79-8"
@@ -5017,7 +4957,7 @@
        ry="8.7080336"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        transform="scale(1.0111469,0.98897598)"
        sodipodi:linespacing="125%"
@@ -5028,7 +4968,7 @@
        xml:space="preserve"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          y="472.29303"
          x="93.299576"
          id="tspan3986-5-8-2-4-2-2-79-84"
@@ -5046,7 +4986,7 @@
        ry="8.7080336"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        transform="scale(1.0111469,0.98897598)"
        sodipodi:linespacing="125%"
@@ -5057,7 +4997,7 @@
        xml:space="preserve"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          y="497.06232"
          x="92.800064"
          id="tspan3986-5-8-2-4-2-2-79-7"
@@ -5073,7 +5013,7 @@
        x="199.35423"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="font-size:18px"
@@ -5091,7 +5031,7 @@
        ry="0.85822856"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="display:inline;fill:none"
        id="rect4027-8-7-0-94"
@@ -5102,7 +5042,7 @@
        ry="3.468698"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.7658329px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5113,57 +5053,26 @@
        transform="scale(1.1575413,0.86390003)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4860-8-65"
          x="152.45062"
          y="682.22357"
-         style="font-size:8.7658329px">Right pane  </tspan><tspan
+         style="font-size:8.7658329px">Track Table</tspan><tspan
          sodipodi:role="line"
          x="152.45062"
-         y="697.22357"
+         y="693.18085"
          style="font-size:8.7658329px"
          id="tspan4851">container</tspan><tspan
          sodipodi:role="line"
          x="152.45062"
-         y="712.22357"
+         y="704.13818"
          style="font-size:8.7658329px"
          id="tspan4862-7-86" /><tspan
          sodipodi:role="line"
          x="152.45062"
-         y="727.22357"
+         y="715.09546"
          id="tspan4864-8-4"
-         style="font-size:8.7658329px" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.7658329px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="99.971779"
-       y="682.58984"
-       id="text4858-1-1-6"
-       sodipodi:linespacing="125%"
-       transform="scale(1.1575413,0.86390003)"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
-         sodipodi:role="line"
-         id="tspan4860-8-6-06"
-         x="99.971779"
-         y="682.58984"
-         style="font-size:8.7658329px">Left pane  </tspan><tspan
-         sodipodi:role="line"
-         x="99.971779"
-         y="697.58984"
-         style="font-size:8.7658329px"
-         id="tspan4853">container</tspan><tspan
-         sodipodi:role="line"
-         x="99.971779"
-         y="712.58984"
-         style="font-size:8.7658329px"
-         id="tspan4862-7-8-6" /><tspan
-         sodipodi:role="line"
-         x="99.971779"
-         y="727.58984"
-         id="tspan4864-8-1-0"
          style="font-size:8.7658329px" /></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.24126299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -5175,7 +5084,7 @@
        ry="0.85759962"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.72991091;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4642857"
        id="rect5842-0"
@@ -5184,7 +5093,7 @@
        x="102.94891"
        y="545.43115"
        ry="0.85759717"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <text
@@ -5194,7 +5103,7 @@
        y="561.02997"
        id="text5848-0"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
        transform="scale(1.003851,0.99616381)"><tspan
@@ -5213,7 +5122,7 @@
        ry="0.86690456"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="display:inline;fill:none"
        id="rect4027-8-7-0-94-3"
@@ -5224,7 +5133,7 @@
        ry="3.5037637"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.82048035px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5235,56 +5144,66 @@
        transform="scale(1.1531008,0.86722688)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
          id="tspan4860-8-65-3"
          x="339.02536"
          y="679.29767"
-         style="font-size:8.82048035px">Right pane  </tspan><tspan
+         style="font-size:8.82048035px">Track Table</tspan><tspan
          sodipodi:role="line"
          x="339.02536"
-         y="694.29767"
+         y="690.32324"
          style="font-size:8.82048035px"
          id="tspan4851-5">container</tspan><tspan
          sodipodi:role="line"
          x="339.02536"
-         y="709.29767"
+         y="701.34888"
          style="font-size:8.82048035px"
          id="tspan4862-7-86-2" /><tspan
          sodipodi:role="line"
          x="339.02536"
-         y="724.29767"
+         y="712.37445"
          id="tspan4864-8-4-5"
          style="font-size:8.82048035px" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.82048035px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="286.21936"
-       y="679.6662"
+       x="285.34332"
+       y="669.76532"
        id="text4858-1-1-6-9"
        sodipodi:linespacing="125%"
        transform="scale(1.1531008,0.86722688)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"><tspan
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
          sodipodi:role="line"
-         id="tspan4860-8-6-06-6"
-         x="286.21936"
-         y="679.6662"
-         style="font-size:8.82048035px">Left pane  </tspan><tspan
-         sodipodi:role="line"
-         x="286.21936"
-         y="694.6662"
+         x="285.34332"
+         y="669.76532"
          style="font-size:8.82048035px"
-         id="tspan4853-1">container</tspan><tspan
+         id="tspan4853-1">Library </tspan><tspan
          sodipodi:role="line"
-         x="286.21936"
-         y="709.6662"
+         x="285.34332"
+         y="680.79089"
+         style="font-size:8.82048035px"
+         id="tspan4900">sidebar</tspan><tspan
+         sodipodi:role="line"
+         x="285.34332"
+         y="691.81653"
+         style="font-size:8.82048035px"
+         id="tspan4954">expanded</tspan><tspan
+         sodipodi:role="line"
+         x="285.34332"
+         y="702.8421"
+         style="font-size:8.82048035px"
+         id="tspan4918" /><tspan
+         sodipodi:role="line"
+         x="285.34332"
+         y="713.86774"
          style="font-size:8.82048035px"
          id="tspan4862-7-8-6-9" /><tspan
          sodipodi:role="line"
-         x="286.21936"
-         y="724.6662"
+         x="285.34332"
+         y="724.89331"
          id="tspan4864-8-1-0-6"
          style="font-size:8.82048035px" /></text>
     <rect
@@ -5297,7 +5216,7 @@
        ry="0.86626917"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png" />
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.73446131;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4642857"
        id="rect5842-0-8"
@@ -5306,7 +5225,7 @@
        x="317.23688"
        y="544.71912"
        ry="0.86626673"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <text
@@ -5316,7 +5235,7 @@
        y="558.30164"
        id="text5848-0-2"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
@@ -5330,7 +5249,7 @@
        id="path4915"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5339,7 +5258,7 @@
        id="path4917"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5348,7 +5267,7 @@
        id="path4919"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5357,7 +5276,7 @@
        id="path4921"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5366,7 +5285,7 @@
        id="path4923"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5375,7 +5294,7 @@
        id="path4925"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5384,7 +5303,7 @@
        id="path4927"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5393,7 +5312,7 @@
        id="path4929"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5402,7 +5321,7 @@
        id="path4931"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5411,7 +5330,7 @@
        id="path4933"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5420,7 +5339,7 @@
        id="path4935"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -5429,8 +5348,469 @@
        id="path4937"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_feature_stack.png"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.23488712px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="676.59845"
+       y="575.03937"
+       id="text5477-4-08-8-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92962532,1.0757022)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png"><tspan
+         sodipodi:role="line"
+         id="tspan5479-5-1-2-5"
+         x="676.59845"
+         y="575.03937">+</tspan></text>
+    <rect
+       ry="2.8298855"
+       y="489.41904"
+       x="624.29712"
+       height="134.92668"
+       width="21.167494"
+       id="rect3970-2-2-1-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ef1010;stroke-width:0.23942207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png" />
+    <ellipse
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3972-7-4-5-8"
+       cx="633.4986"
+       cy="501.60349"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png" />
+    <ellipse
+       id="path3976-8-0-2-9"
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       cx="634.20294"
+       cy="525.75446"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png" />
+    <ellipse
+       id="path3980-6-3-7-3"
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       cx="633.55768"
+       cy="550.24042"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png" />
+    <text
+       transform="scale(1.1124167,0.89894372)"
+       sodipodi:linespacing="125%"
+       id="text3984-8-5-8-6"
+       y="569.39734"
+       x="562.58752"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png"><tspan
+         y="569.39734"
+         x="562.58752"
+         id="tspan3986-5-2-5-3"
+         sodipodi:role="line">Library</tspan><tspan
+         id="tspan3988-5-9-6-7"
+         y="574.4361"
+         x="562.58752"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="560.77478"
+       y="595.98267"
+       id="text3990-8-9-4-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1124167,0.89894372)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png"><tspan
+         sodipodi:role="line"
+         id="tspan3992-1-4-1-0"
+         x="560.77478"
+         y="595.98267">Metadata</tspan><tspan
+         sodipodi:role="line"
+         x="560.77478"
+         y="601.02142"
+         id="tspan3995-4-3-0-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="562.64069"
+       y="626.58771"
+       id="text4004-3-2-6-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1124167,0.89894372)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png"><tspan
+         sodipodi:role="line"
+         id="tspan4006-8-4-4-0"
+         x="562.64069"
+         y="626.58771">Analyse</tspan><tspan
+         sodipodi:role="line"
+         x="562.64069"
+         y="631.62646"
+         id="tspan4008-6-4-0-7" /></text>
+    <ellipse
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4010-4-6-6-2"
+       cx="633.80988"
+       cy="572.93732"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png" />
+    <text
+       transform="scale(1.1124167,0.89894372)"
+       sodipodi:linespacing="125%"
+       id="text4012-5-7-8-4"
+       y="651.27502"
+       x="562.18726"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png"><tspan
+         y="651.27502"
+         x="562.18726"
+         id="tspan4014-3-5-5-6"
+         sodipodi:role="line">Record</tspan><tspan
+         id="tspan4016-2-1-8-2"
+         y="656.31378"
+         x="562.18726"
+         sodipodi:role="line" /></text>
+    <ellipse
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.95459092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4010-4-6-6-2-5"
+       cx="634.22748"
+       cy="592.58673"
+       rx="4.6881771"
+       ry="4.6881766"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png" />
+    <text
+       transform="scale(1.1124167,0.89894372)"
+       sodipodi:linespacing="125%"
+       id="text4012-5-7-8-4-0"
+       y="673.13336"
+       x="562.56268"
+       style="font-style:normal;font-weight:normal;font-size:4.03098917px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/GSoC/mixxxDocuments/Images/library_0_2_0.png"><tspan
+         y="673.13336"
+         x="562.56268"
+         id="tspan4014-3-5-5-6-4"
+         sodipodi:role="line">Crates</tspan><tspan
+         id="tspan4016-2-1-8-2-9"
+         y="678.17212"
+         x="562.56268"
+         sodipodi:role="line" /></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5621)"
+       d="m 700.79333,506.37475 -50.76016,-0.50507"
+       id="path4145"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5437)"
+       d="m 697.51034,525.31511 -48.9924,-0.50507"
+       id="path4147"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5259)"
+       d="m 704.07633,576.83293 -45.45687,-0.5051"
+       id="path4149"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.56152231;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4151"
+       width="29.660442"
+       height="68.046242"
+       x="619.41931"
+       y="540.15808"
+       ry="9.803339" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="712.4101"
+       y="509.65771"
+       id="text5805"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5807"
+         x="712.4101"
+         y="509.65771"
+         style="font-size:11.25px">Library tree</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="713.16772"
+       y="528.09302"
+       id="text5809"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5811"
+         x="713.16772"
+         y="528.09302"
+         style="font-size:11.25px">Metadata tree</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="710"
+       y="580.57654"
+       id="text5813"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5815"
+         x="710"
+         y="580.57654"
+         style="font-size:11.25px">Items in bookmark feature</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.82048035px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="98.605896"
+       y="671.36682"
+       id="text4858-1-1-6-9-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1531008,0.86722688)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
+         sodipodi:role="line"
+         x="98.605896"
+         y="671.36682"
+         style="font-size:8.82048035px"
+         id="tspan4853-1-3">Library </tspan><tspan
+         sodipodi:role="line"
+         x="98.605896"
+         y="682.3924"
+         style="font-size:8.82048035px"
+         id="tspan4900-9">sidebar</tspan><tspan
+         sodipodi:role="line"
+         x="98.605896"
+         y="693.41803"
+         style="font-size:8.82048035px"
+         id="tspan4950">expanded</tspan><tspan
+         sodipodi:role="line"
+         x="98.605896"
+         y="704.4436"
+         style="font-size:8.82048035px"
+         id="tspan4952" /><tspan
+         sodipodi:role="line"
+         x="98.605896"
+         y="715.46924"
+         style="font-size:8.82048035px"
+         id="tspan4918-6" /><tspan
+         sodipodi:role="line"
+         x="98.605896"
+         y="726.49481"
+         style="font-size:8.82048035px"
+         id="tspan4862-7-8-6-9-4" /><tspan
+         sodipodi:role="line"
+         x="98.605896"
+         y="737.52045"
+         id="tspan4864-8-1-0-6-9"
+         style="font-size:8.82048035px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="140.28825"
+       y="772.67255"
+       id="text4858-1-1-4-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1531008,0.86722688)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
+         sodipodi:role="line"
+         id="tspan4860-8-6-0-7"
+         x="140.28825"
+         y="772.67255"
+         style="font-size:8.69546318px">Libray</tspan><tspan
+         sodipodi:role="line"
+         x="140.28825"
+         y="783.54187"
+         style="font-size:8.69546318px"
+         id="tspan4956-0">sidebar</tspan><tspan
+         sodipodi:role="line"
+         x="140.28825"
+         y="794.41119"
+         style="font-size:8.69546318px"
+         id="tspan4958-2">expanded</tspan><tspan
+         sodipodi:role="line"
+         x="140.28825"
+         y="805.28052"
+         style="font-size:8.69546318px"
+         id="tspan4960-0">widget</tspan><tspan
+         sodipodi:role="line"
+         x="140.28825"
+         y="816.14984"
+         style="font-size:8.69546318px"
+         id="tspan4862-7-8-8-1" /><tspan
+         sodipodi:role="line"
+         x="140.28825"
+         y="827.01917"
+         id="tspan4864-8-1-3-6"
+         style="font-size:8.69546318px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="140.72627"
+       y="867.60443"
+       id="text4858-1-1-4-2-3"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1531008,0.86722688)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
+         sodipodi:role="line"
+         id="tspan4860-8-6-0-7-6"
+         x="140.72627"
+         y="867.60443"
+         style="font-size:8.69546318px">Libray</tspan><tspan
+         sodipodi:role="line"
+         x="140.72627"
+         y="878.47375"
+         style="font-size:8.69546318px"
+         id="tspan4956-0-1">sidebar</tspan><tspan
+         sodipodi:role="line"
+         x="140.72627"
+         y="889.34308"
+         style="font-size:8.69546318px"
+         id="tspan4958-2-9">expanded</tspan><tspan
+         sodipodi:role="line"
+         x="140.72627"
+         y="900.2124"
+         style="font-size:8.69546318px"
+         id="tspan4960-0-3">widget</tspan><tspan
+         sodipodi:role="line"
+         x="140.72627"
+         y="911.08173"
+         style="font-size:8.69546318px"
+         id="tspan4862-7-8-8-1-0" /><tspan
+         sodipodi:role="line"
+         x="140.72627"
+         y="921.95105"
+         id="tspan4864-8-1-3-6-5"
+         style="font-size:8.69546318px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="272.56897"
+       y="867.02197"
+       id="text4858-1-1-4-2-4"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1531008,0.86722688)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
+         sodipodi:role="line"
+         id="tspan4860-8-6-0-7-0"
+         x="272.56897"
+         y="867.02197"
+         style="font-size:8.69546318px">Libray</tspan><tspan
+         sodipodi:role="line"
+         x="272.56897"
+         y="877.8913"
+         style="font-size:8.69546318px"
+         id="tspan4956-0-8">sidebar</tspan><tspan
+         sodipodi:role="line"
+         x="272.56897"
+         y="888.76062"
+         style="font-size:8.69546318px"
+         id="tspan4958-2-5">expanded</tspan><tspan
+         sodipodi:role="line"
+         x="272.56897"
+         y="899.62994"
+         style="font-size:8.69546318px"
+         id="tspan4960-0-2">widget</tspan><tspan
+         sodipodi:role="line"
+         x="272.56897"
+         y="910.49927"
+         style="font-size:8.69546318px"
+         id="tspan4862-7-8-8-1-3" /><tspan
+         sodipodi:role="line"
+         x="272.56897"
+         y="921.36859"
+         id="tspan4864-8-1-3-6-7"
+         style="font-size:8.69546318px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="327.94785"
+       y="880.22095"
+       id="text4858-1-2-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1531008,0.86722688)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
+         sodipodi:role="line"
+         id="tspan4860-8-3-0"
+         x="327.94785"
+         y="880.22095"
+         style="font-size:8.69546318px">Track Table</tspan><tspan
+         sodipodi:role="line"
+         x="327.94785"
+         y="891.09027"
+         style="font-size:8.69546318px"
+         id="tspan5066-8">Widget</tspan><tspan
+         sodipodi:role="line"
+         x="327.94785"
+         y="901.95959"
+         style="font-size:8.69546318px"
+         id="tspan4862-7-4-0" /><tspan
+         sodipodi:role="line"
+         x="327.94785"
+         y="912.82892"
+         id="tspan4864-8-3-7"
+         style="font-size:8.69546318px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.69546318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="195.66708"
+       y="880.22095"
+       id="text4858-1-2-9"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1531008,0.86722688)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/joan/Documents/Projects/mixxxDocuments/Images/library_feature_stack_3.png"><tspan
+         sodipodi:role="line"
+         id="tspan4860-8-3-5"
+         x="195.66708"
+         y="880.22095"
+         style="font-size:8.69546318px">Track Table</tspan><tspan
+         sodipodi:role="line"
+         x="195.66708"
+         y="891.09027"
+         style="font-size:8.69546318px"
+         id="tspan5066-9">Widget</tspan><tspan
+         sodipodi:role="line"
+         x="195.66708"
+         y="901.95959"
+         style="font-size:8.69546318px"
+         id="tspan4862-7-4-2" /><tspan
+         sodipodi:role="line"
+         x="195.66708"
+         y="912.82892"
+         id="tspan4864-8-3-1"
+         style="font-size:8.69546318px" /></text>
   </g>
 </svg>
